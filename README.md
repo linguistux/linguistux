@@ -57,7 +57,3 @@ I'm a **Senior Software Engineer** specializing in **React**, **Spring Boot**, a
 ### 🌟 Contribution Streak:
 ![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=linguistux&theme=light)
 
-![GitHub followers](https://img.shields.io/github/followers/linguistux?label=Follow&style=social)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linguistux)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=linguistux&show_icons=true)
-
