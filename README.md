@@ -43,7 +43,7 @@ I'm a **Senior Software Engineer** specializing in **React**, **Spring Boot**, a
   Led the migration to microservices, enhancing scalability and reliability. 🔄
 
 ### 📈 GitHub Stats:
-![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brandonwong92&show_icons=true&theme=light)
+![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=linguistux&show_icons=true&theme=light)
 
 ### 🔗 Connect with me:
 - **Email:** [brandonwongdev@gmail.com](mailto:brandonwongdev@gmail.com)  
@@ -52,7 +52,12 @@ I'm a **Senior Software Engineer** specializing in **React**, **Spring Boot**, a
 ---
 
 ### 🏆 Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonwong92&layout=compact&theme=light)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linguistux&layout=compact&theme=light)
 
 ### 🌟 Contribution Streak:
-![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=brandonwong92&theme=light)
+![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=linguistux&theme=light)
+
+![GitHub followers](https://img.shields.io/github/followers/linguistux?label=Follow&style=social)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linguistux)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=linguistux&show_icons=true)
+
