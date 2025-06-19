@@ -9,7 +9,7 @@ I'm a **Senior Software Engineer** specializing in **React**, **Spring Boot**, a
   - Refined compliance document management system using AWS services. 📑  
   - Refactored org structure modules and led CI/CD improvements 🚀.
 
-- **Costco Wholesale**  
+- **Costco Travel**  
   Senior Software Engineer | Aug 2021 – Dec 2023  
   - Built scalable backend for Costco Travel platform using Spring Boot 🛫.  
   - Spearheaded accessibility efforts with WCAG 2.1 AA compliance for React-based interfaces. 🌍  
