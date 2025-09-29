@@ -1,53 +1,75 @@
-# Hi there 👋, I'm Brandon Wong! 
+# Hi there 👋, I'm Brandon Wong!
 
-I'm a **Senior Software Engineer** specializing in **React**, **Spring Boot**, and building scalable, high-performance systems for e-commerce and logistics. I love engineering cloud-native architectures, AI-driven automation, and secure, scalable applications that make businesses more efficient (and fun!).
+I'm a **Senior Software Engineer** with a strong background in AI solutions, e-commerce platforms, and fraud detection systems. I have extensive experience at top startups like **Salt AI**, **Bezel**, and **Italic**, as well as **Google**, where I contributed to optimizing internal tools and improving build processes for scalability. 
+
+I am passionate about building cloud-native, scalable systems and leveraging AI to solve complex business problems. Currently, I'm seeking a dynamic startup where I can continue driving innovation with my full-stack expertise and AI integration skills.
 
 ### 🔧 Work Experience Highlights:
-- **Deel**  
-  Senior Software Engineer | Dec 2023 – Apr 2025  
-  - Enhanced global onboarding workflows with Python, React, and MongoDB on AWS Lambda 🧑‍💻.  
-  - Refined compliance document management system using AWS services. 📑  
-  - Refactored org structure modules and led CI/CD improvements 🚀.
 
-- **Costco Travel**  
-  Senior Software Engineer | Aug 2021 – Dec 2023  
-  - Built scalable backend for Costco Travel platform using Spring Boot 🛫.  
-  - Spearheaded accessibility efforts with WCAG 2.1 AA compliance for React-based interfaces. 🌍  
-  - Implemented test-driven development to improve code quality and performance. 📊
+- **Salt AI**  
+  Senior Full Stack Engineer | Oct 2024 – Aug 2025  
+  - Spearheaded the development of a visual-first, drag-and-drop workflow builder for non-technical users to design AI pipelines.  
+  - Optimized AlphaFold2 models, achieving up to 22x faster execution in protein structure prediction.  
+  - Integrated ELNs, LIMS, and public data repositories for seamless data access.
 
-- **Revery AI**  
-  Senior Software Engineer | Jul 2020 – Jul 2021  
-  - Led the development of an AI-powered virtual dressing room platform 👗🤖.  
-  - Built high-performance systems using Ruby on Rails, React.js, and AWS services. 🌐
+- **Bezel**  
+  Senior Full Stack Engineer | Jul 2021 – Sep 2024  
+  - Developed an AI-powered fraud detection system, reducing counterfeit listings by 27%.  
+  - Built a semantic search engine using Elasticsearch and Sentence Transformers, enhancing product discovery.  
+  - Led authentication integration to ensure 100% verification for luxury watch listings.
 
-- **Wayfair**  
-  Full Stack Engineer | Mar 2018 – Jul 2021  
-  - Migrated order confirmation system to microservices, scaling Wayfair's services. 🛠️  
-  - Developed mobile app that boosted mobile-driven revenue by 22% 📱.  
+- **Italic**  
+  Senior Software Engineer | Jul 2018 – Jun 2021  
+  - Led full-stack development for Italic's e-commerce platform, supporting thousands of daily transactions.  
+  - Developed microservices with REST APIs, improving modularity and maintainability.  
+  - Integrated ElasticSearch for enhanced search relevance and user retention.
+
+- **Google**  
+  Senior Software Engineer | Apr 2017 – Jul 2018  
+  - Designed internal dashboards for real-time tracking of build performance.  
+  - Integrated Bazel into CI/CD pipelines to improve build efficiency across engineering teams.  
+  - Enhanced internal code review tools, reducing review cycle times and improving collaboration.
+
+- **Google**  
+  Software Engineer | Feb 2015 – Apr 2017  
+  - Developed internal tools to automate testing and deployment processes, enhancing software reliability.  
+  - Worked on ClusterFuzz pipelines to identify vulnerabilities early in the development lifecycle.
+
+- **Google**  
+  Junior Software Engineer | Jun 2013 – Jan 2015  
+  - Assisted in the development of internal tools for code quality analysis and automated testing.  
+  - Supported the integration of Jenkins into Google’s CI infrastructure, improving reliability and scalability.
 
 ### 💻 Tech Stack & Skills:
-- **Languages:** Java, JavaScript (React, TypeScript, Node.js), Kotlin, Python, SQL  
-- **Frameworks & Tools:** Spring Boot, React, FastAPI, Next.js, React Native, Material UI  
-- **Cloud & DevOps:** GCP, Docker, Kubernetes, Terraform  
-- **Testing Tools:** Jest, Vitest, React Testing Library, Chromatic  
-- **Other:** TensorFlow, AWS (EC2, S3, Lambda), GraphQL, WebSockets  
+
+- **Languages:** JavaScript (Node.js, React, Gatsby), Python (Django, Flask, Pandas, NumPy), TypeScript, Java (Spring Boot), SQL (PostgreSQL, MySQL), HTML, CSS  
+- **AI & Machine Learning:** AI Model Integration (AlphaFold2, GPT, custom models), Model Optimization, NLP, Computer Vision (TensorFlow, OpenCV), Machine Learning Frameworks (TensorFlow, PyTorch, Scikit-learn)  
+- **Backend Development:** REST APIs, Microservices Architecture, AWS Lambda, Node.js, Express.js, Docker, Kubernetes  
+- **Frontend Development:** React.js, Next.js, Vue.js, SPA Development, UI/UX, Responsive Design, WebSockets  
+- **Cloud & Infrastructure:** AWS (Lambda, EC2, RDS, S3), GCP, Firebase, CI/CD (Jenkins, GitLab CI, CircleCI), Terraform  
+- **Data Integration & Orchestration:** Data Pipelines, ETL Processes, API Integration, GraphQL  
+- **DevOps & Testing:** CI/CD Implementation, Unit & Integration Testing (Jest, Mocha, Chai, Cypress)
 
 ### 🚀 Featured Projects:
-- **[Costco Travel](https://www.costcotravel.com/)** | 2021–2024  
-  Developed a seamless travel booking platform for Costco members. 🌴✈️
 
-- **[Wayfair Mobile App](https://www.wayfair.com/the-wayfair-app)** | 2019–2020  
-  Boosted mobile shopping engagement and expanded customer reach. 📱
+- **[Salt AI](https://www.linkedin.com/company/getsalt-ai)** | 2024–2025  
+  Developed a visual-first workflow builder for AI pipeline design, optimizing AlphaFold2 model performance.
 
-- **[Wayfair Order Confirmation System Migration](https://www.wayfair.com/)** | 2020–2021  
-  Led the migration to microservices, enhancing scalability and reliability. 🔄
+- **[Bezel](https://www.linkedin.com/company/getbezel)** | 2021–2024  
+  Built AI-powered fraud detection and semantic search for luxury watch marketplace.
+
+- **[Italic](https://www.italic.com)** | 2018–2021  
+  Led e-commerce platform development and integrated advanced search and recommendation features.
+
+- **[Google](https://www.google.com)** | 2013–2018  
+  Improved internal tools, CI/CD pipelines, and contributed to the development of tools like Bazel and ClusterFuzz.
 
 ### 📈 GitHub Stats:
 ![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=linguistux&show_icons=true&theme=light)
 
 ### 🔗 Connect with me:
 - **Email:** [brandonwongdev@gmail.com](mailto:brandonwongdev@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/brandon-wong92](https://linkedin.com/in/brandon-wong92)
+- **LinkedIn:** [linkedin.com/in/brandon-wong92](https://linkedin.com/in/brandon-www)
 
 ---
 
@@ -56,4 +78,3 @@ I'm a **Senior Software Engineer** specializing in **React**, **Spring Boot**, a
 
 ### 🌟 Contribution Streak:
 ![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=linguistux&theme=light)
-
