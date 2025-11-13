@@ -1,80 +1,118 @@
-# Hi there 👋, I'm Brandon Wong!
+# Brandon Wong
 
-I'm a **Senior Software Engineer** with a strong background in AI solutions, e-commerce platforms, and fraud detection systems. I have extensive experience at top startups like **Salt AI**, **Bezel**, and **Italic**, as well as **Google**, where I contributed to optimizing internal tools and improving build processes for scalability. 
+**Senior Software Engineer | ex-Google | Startup Scaler**
 
-I am passionate about building cloud-native, scalable systems and leveraging AI to solve complex business problems. Currently, I'm seeking a dynamic startup where I can continue driving innovation with my full-stack expertise and AI integration skills.
-
-### 🔧 Work Experience Highlights:
-
-- **Salt AI**  
-  Senior Full Stack Engineer | Oct 2024 – Aug 2025  
-  - Spearheaded the development of a visual-first, drag-and-drop workflow builder for non-technical users to design AI pipelines.  
-  - Optimized AlphaFold2 models, achieving up to 22x faster execution in protein structure prediction.  
-  - Integrated ELNs, LIMS, and public data repositories for seamless data access.
-
-- **Bezel**  
-  Senior Full Stack Engineer | Jul 2021 – Sep 2024  
-  - Developed an AI-powered fraud detection system, reducing counterfeit listings by 27%.  
-  - Built a semantic search engine using Elasticsearch and Sentence Transformers, enhancing product discovery.  
-  - Led authentication integration to ensure 100% verification for luxury watch listings.
-
-- **Italic**  
-  Senior Software Engineer | Jul 2018 – Jun 2021  
-  - Led full-stack development for Italic's e-commerce platform, supporting thousands of daily transactions.  
-  - Developed microservices with REST APIs, improving modularity and maintainability.  
-  - Integrated ElasticSearch for enhanced search relevance and user retention.
-
-- **Google**  
-  Senior Software Engineer | Apr 2017 – Jul 2018  
-  - Designed internal dashboards for real-time tracking of build performance.  
-  - Integrated Bazel into CI/CD pipelines to improve build efficiency across engineering teams.  
-  - Enhanced internal code review tools, reducing review cycle times and improving collaboration.
-
-- **Google**  
-  Software Engineer | Feb 2015 – Apr 2017  
-  - Developed internal tools to automate testing and deployment processes, enhancing software reliability.  
-  - Worked on ClusterFuzz pipelines to identify vulnerabilities early in the development lifecycle.
-
-- **Google**  
-  Junior Software Engineer | Jun 2013 – Jan 2015  
-  - Assisted in the development of internal tools for code quality analysis and automated testing.  
-  - Supported the integration of Jenkins into Google’s CI infrastructure, improving reliability and scalability.
-
-### 💻 Tech Stack & Skills:
-
-- **Languages:** JavaScript (Node.js, React, Gatsby), Python (Django, Flask, Pandas, NumPy), TypeScript, Java (Spring Boot), SQL (PostgreSQL, MySQL), HTML, CSS  
-- **AI & Machine Learning:** AI Model Integration (AlphaFold2, GPT, custom models), Model Optimization, NLP, Computer Vision (TensorFlow, OpenCV), Machine Learning Frameworks (TensorFlow, PyTorch, Scikit-learn)  
-- **Backend Development:** REST APIs, Microservices Architecture, AWS Lambda, Node.js, Express.js, Docker, Kubernetes  
-- **Frontend Development:** React.js, Next.js, Vue.js, SPA Development, UI/UX, Responsive Design, WebSockets  
-- **Cloud & Infrastructure:** AWS (Lambda, EC2, RDS, S3), GCP, Firebase, CI/CD (Jenkins, GitLab CI, CircleCI), Terraform  
-- **Data Integration & Orchestration:** Data Pipelines, ETL Processes, API Integration, GraphQL  
-- **DevOps & Testing:** CI/CD Implementation, Unit & Integration Testing (Jest, Mocha, Chai, Cypress)
-
-### 🚀 Featured Projects:
-
-- **[Salt AI](https://www.linkedin.com/company/getsalt-ai)** | 2024–2025  
-  Developed a visual-first workflow builder for AI pipeline design, optimizing AlphaFold2 model performance.
-
-- **[Bezel](https://www.linkedin.com/company/getbezel)** | 2021–2024  
-  Built AI-powered fraud detection and semantic search for luxury watch marketplace.
-
-- **[Italic](https://www.italic.com)** | 2018–2021  
-  Led e-commerce platform development and integrated advanced search and recommendation features.
-
-- **[Google](https://www.google.com)** | 2013–2018  
-  Improved internal tools, CI/CD pipelines, and contributed to the development of tools like Bazel and ClusterFuzz.
-
-### 📈 GitHub Stats:
-![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=linguistux&show_icons=true&theme=light)
-
-### 🔗 Connect with me:
-- **Email:** [brandonwongdev@gmail.com](mailto:brandonwongdev@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/brandon-wong92](https://linkedin.com/in/brandon-www)
+[GitHub](https://github.com/brandonwong) | [Website](https://www.brandonwong.dev)
 
 ---
 
-### 🏆 Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linguistux&layout=compact&theme=light)
+## About Me
 
-### 🌟 Contribution Streak:
-![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=linguistux&theme=light)
+I'm an experienced **Senior Software Engineer** with a passion for developing cutting-edge AI solutions, e-commerce platforms, and fraud detection systems. I have a proven track record in **startups**, including **Salt AI**, **Bezel**, and **Italic**, and have worked at **Google** where I optimized internal tools and processes. I specialize in **full-stack development**, **AI integration**, and **leadership**, aiming to drive innovation and growth in dynamic startup environments.
+
+Currently seeking new opportunities to leverage my **AI/ML expertise**, **full-stack skills**, and **leadership experience** to help companies scale and create impactful products.
+
+---
+
+## Skills
+
+### Programming Languages
+- **JavaScript** (Node.js, React, Gatsby)
+- **Python** (Django, Flask, Pandas, NumPy)
+- **TypeScript**
+- **Java** (Spring Boot)
+- **SQL** (PostgreSQL, MySQL)
+- **HTML**, **CSS**
+
+### AI & Machine Learning
+- AI Model Integration (AlphaFold2, GPT, custom models)
+- Model Optimization and Fine-tuning
+- **Natural Language Processing (NLP)**
+- **Computer Vision** (TensorFlow, OpenCV)
+- **Machine Learning Frameworks** (TensorFlow, PyTorch, Scikit-learn)
+- Data Preprocessing and Feature Engineering
+
+### Backend Development
+- **REST APIs** & **Microservices Architecture**
+- **AWS** (Lambda, EC2, RDS, S3)
+- **Serverless Frameworks**
+- **Node.js**, **Express.js**, **Docker** & **Kubernetes**
+
+### Frontend Development
+- **React.js**, **Next.js**, **Vue.js**
+- Single-page Application (SPA) Development
+- **UI/UX Principles** and Design
+- **Responsive Web Design** & Development
+- **WebSockets** and **Real-Time Communication**
+
+### Cloud & Infrastructure
+- **AWS** (Lambda, EC2, RDS, S3), **Google Cloud** (GCP, Firebase)
+- **CI/CD** (Jenkins, GitLab CI, CircleCI)
+- **Containerization** (Docker, Kubernetes)
+- **Infrastructure as Code** (Terraform)
+
+### Data Integration & Orchestration
+- **Data Pipelines** & **Workflow Automation**
+- **ETL Processes**, Data Syncing & API Integration (ELNs, LIMS, EHRs, public repositories)
+- **GraphQL**
+
+### DevOps & Testing
+- **CI/CD** Implementation
+- **Unit & Integration Testing** (Jest, Mocha, Chai, Cypress)
+
+---
+
+## Experience
+
+### **Sully.ai** | AI/ML Engineer  
+*October 2024 – October 2025*  
+- Developed and deployed AI Nurse and AI Medical Consultant agents using **LangChain** and **LangGraph** to automate healthcare workflows.
+- Led integration for **EHR/EMR systems** like Epic, Cerner, and Meditech, using **OpenAI** and proprietary APIs to streamline healthcare data exchange.
+- Implemented **Stripe payment gateway integration** for secure healthcare transactions.
+- Managed **CI/CD** pipelines using **AWS Lambda** and **Docker** for secure deployment.
+
+### **Bezel** | Senior Full Stack Engineer  
+*July 2021 - September 2024*  
+- Engineered **AI-powered fraud detection** systems, reducing counterfeit listings by 27%.
+- Developed a **semantic search engine** with **Elasticsearch** and **Sentence Transformers**, improving product discovery.
+- Led backend optimization for a marketplace handling **$800M in inventory** using **Node.js** and **AWS Lambda**.
+
+### **Italic** | Senior Software Engineer  
+*July 2018 - June 2021*  
+- Led full-stack development for **e-commerce platform**, supporting thousands of transactions daily.
+- Enhanced **search and recommendation** features using **ElasticSearch** and **Apache Kafka** to improve user retention.
+- Automated order-tagging processes using **Python** and **GitHub Actions**.
+
+### **Google** | Senior Software Engineer  
+*April 2017 - July 2018*  
+- Designed and implemented internal dashboards for **real-time build performance tracking**, improving productivity across engineering teams.
+- Integrated **Bazel** into **CI/CD pipelines**, improving build efficiency.
+
+---
+
+## Education
+
+**University of California, Berkeley**  
+*Bachelor of Science in Computer Science*  
+*June 2009 - May 2013*
+
+---
+
+## Projects
+
+- **AI-powered Healthcare System**: Built an **AI Nurse** to streamline clinical decision support, integrated with multiple healthcare systems.
+- **Fraud Detection System**: Developed an **AI-powered fraud detection system** for luxury watch listings, reducing counterfeit items by 27%.
+- **E-commerce Platform Optimization**: Enhanced the **performance** and **search relevance** of an e-commerce platform using **ElasticSearch** and **Apache Kafka**.
+
+---
+
+## Let's Connect
+
+If you're looking for an experienced full-stack developer with a passion for AI and scaling startups, feel free to connect with me!
+
+- [GitHub](https://github.com/brandonwong)
+- [Website](https://www.brandonwong.dev)
+
+---
+
+> "Innovation is the ability to see change as an opportunity, not a threat." - Steve Jobs
